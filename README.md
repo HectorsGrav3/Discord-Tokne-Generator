@@ -1,0 +1,2 @@
+# Discord-Tokne-Generator
+Soon
